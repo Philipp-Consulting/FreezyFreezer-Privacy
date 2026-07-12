@@ -1,0 +1,32 @@
+<!DOCTYPE html>
+<html lang="de">
+<head>
+    <meta charset="UTF-8">
+    <title>Datenschutzerklärung - FreezyFreezer</title>
+    <style>
+        body { font-family: sans-serif; line-height: 1.6; max-width: 800px; margin: 40px auto; padding: 20px; color: #333; }
+        h1 { color: #000; }
+    </style>
+</head>
+<body>
+    <h1>Datenschutzerklärung für FreezyFreezer</h1>
+    <p>Zuletzt aktualisiert: 12. Juli 2026</p>
+
+    <p>Der Schutz deiner Daten ist uns wichtig. Diese Anwendung ("FreezyFreezer") speichert alle Daten ausschließlich lokal auf deinem Gerät.</p>
+
+    <h2>1. Datenerhebung und -speicherung</h2>
+    <p>Die App erhebt keine personenbezogenen Daten. Alle eingegebenen Informationen (Lebensmittelname, Kategorie, Datum) werden lokal auf deinem Smartphone gespeichert und nicht an Dritte übertragen.</p>
+
+    <h2>2. Kamerazugriff</h2>
+    <p>Die App verwendet die Kamera deines Geräts, um Fotos von deinen Lebensmitteln aufzunehmen. Diese Bilder werden ausschließlich lokal auf deinem Gerät gespeichert und nicht an externe Server gesendet.</p>
+
+    <h2>3. Berechtigungen</h2>
+    <p>Die Kamera-Berechtigung ist für das Funktionieren der App (Aufnahme von Bildern) erforderlich.</p>
+
+    <h2>4. Werbung</h2>
+    <p>Die aktuelle Version der App enthält keine Werbung. Sollte dies in Zukunft geändert werden, werden wir diese Datenschutzerklärung entsprechend aktualisieren.</p>
+
+    <h2>5. Kontakt</h2>
+    <p>Bei Fragen kontaktiere uns bitte über den Play Store.</p>
+</body>
+</html>
